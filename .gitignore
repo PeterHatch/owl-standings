@@ -1,0 +1,6 @@
+node_modules/*
+*.pug
+*.sass
+*.css.map
+package.json
+yarn.lock
