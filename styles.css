@@ -35,19 +35,17 @@ td:nth-child(1) {
   font-weight: bold; }
 
 td:nth-child(2) {
-  padding: 0 0.5em;
-  text-align: start; }
+  vertical-align: middle;
+  padding: 0 0 0 0.5em; }
 
 .icon {
-  width: 1.8em;
   height: 1.8em;
-  vertical-align: middle;
-  padding-right: 0.5em; }
+  width: 1.8em; }
 
-.name {
-  margin: 0.5em 0; }
+td:nth-child(3) {
+  text-align: start; }
 
-td:nth-child(5) {
+td:nth-child(6) {
   padding-right: 1em; }
 
 footer {
